@@ -16,7 +16,7 @@ main {
 }
 
 p {
-
+font-size: 18px;
 }
 
 a {
@@ -58,23 +58,39 @@ border-radius: 4px;
 /* Страничка жанров и тегов */
 
 .genre-first {
+background-color: #E1F5EA;
+padding: 12px 10px;
+margin-bottom: 8px;
+border-radius: 4px;
 
 }
 
 .genre-second {
-
+background-color: #CBEDFF;
+padding: 12px 10px;
+margin-bottom: 8px;
+border-radius: 4px;
+width: 75%;
 }
 
 .genre-third {
-
+background-color: #fcddc9;
+padding: 12px 10px;
+margin-bottom: 8px;
+border-radius: 4px;
+width: 50%;
 }
 
 .genre-fourth {
-
+background-color: #EBDCF9;
+padding: 12px 10px;
+margin-bottom: 8px;
+border-radius: 4px;
+width: 35%;
 }
 
 .tag {
-
+color: #554AF0;
 }
 
 /* Страничка популярного */
