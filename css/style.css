@@ -80,7 +80,8 @@ border-radius: 4px;
 /* Страничка популярного */
 
 .cover {
-
+margin-right: 30px;
+margin-bottom: 30px;
 }
 
 /* Страничка подписки  */
@@ -98,5 +99,10 @@ border-radius: 4px;
 }
 
 .button-link {
+color: #FFFF;
+background-color: #554AF0;
+width: 40%;
+height: 36px;
+border-radius: 4px;
 
 }
