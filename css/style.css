@@ -101,8 +101,9 @@ margin-bottom: 30px;
 .button-link {
 color: #FFFF;
 background-color: #554AF0;
-width: 40%;
-height: 36px;
+padding: 12px 24px;
+margin-right: 14px;
 border-radius: 4px;
+text-decoration: none;
 
 }
